@@ -1,0 +1,9 @@
+Setosa,Setosa,13
+Setosa,Versicolour,0
+Setosa,Virginica,0
+Versicolour,Setosa,0
+Versicolour,Versicolour,15
+Versicolour,Virginica,1
+Virginica,Setosa,0
+Virginica,Versicolour,0
+Virginica,Virginica,9
